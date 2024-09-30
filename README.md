@@ -6,7 +6,7 @@ Voici à quoi pourrait ressembler l'interface de recherche.
 ![bouton favoris](https://searcharea.ddns.net/imagegit.png)
 
 Il n'y a pas de gros changement visuel, mis à part le bouton 'Ajouter cette page aux favoris', qui vous permettra (si vous avez un compte) de l'ajouter à vos favoris depuis la page de votre profil utilisateur !
-De plus, la page de votre profil est accompagnée d'une bannière et d'une photo de profil.
+De plus, la page de votre profil est accompagnée d'une bannière et d'une photo de profil. 
 
 ![profil](https://searcharea.ddns.net/imagegit2.png)
 
